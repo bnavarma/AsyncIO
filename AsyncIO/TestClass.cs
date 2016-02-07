@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace AsyncIO
 {
-    public class Class1
-    {
-    }
+	public class TestClass
+	{
+		public int x = 0;
+		public int y = 0;
+	}
 }
